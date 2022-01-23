@@ -10,7 +10,7 @@ def get_valutes_list():
     valutes = list(data['Valute'].values())
     return valutes
 
-
+# test
 app = Flask(__name__)
 
 
